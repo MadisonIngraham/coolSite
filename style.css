@@ -1,7 +1,7 @@
 header {
   border: 1px solid black;
   outline-style: solid;
-  background-color: blue;
+  background-color: #034f84;
 }
 
 header h1 {
@@ -39,4 +39,15 @@ section p:last-child {
 .content {
   display: flex;
   justify-content: center;
+}
+
+footer {
+  border: 1px solid black;
+  outline-style: solid;
+  background-color: #034f84;
+  height: 5em;
+  position: fixed;
+  left: 6px;
+  bottom: 7px;
+  width: 99%;
 }
