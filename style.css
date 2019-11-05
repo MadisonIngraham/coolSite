@@ -23,14 +23,14 @@ section:first-child {
   padding-right: 63px;
 }
 
-.text h1 {
+section h1:first-child {
   border-top-color: #b7d7e8;
   border-top-style: solid;
   border-top-width: 14px;
   padding-top: 10px;
 }
 
-.text p {
+section p:first-child {
   text-align: left;
 }
 
@@ -39,14 +39,14 @@ section:last-child {
   margin-top: 94px;
 }
 
-.image h1 {
+section h1:last-child {
   padding-top: 0px;
   margin-top: 6px;
   text-align: left;
   font-size: 19px;
 }
 
-.image p {
+section p:last-child {
   text-align: left;
   font-size: 13px;
   padding-top: 0px;
