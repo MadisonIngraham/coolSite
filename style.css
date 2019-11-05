@@ -21,6 +21,14 @@ section:first-child {
   max-width: 23vw;
 }
 
+section p:first-child {
+  text-align: left;
+}
+
 section:last-child {
   max-width: 12vw;
+}
+
+section p:last-child {
+  text-align: left;
 }
