@@ -1,4 +1,13 @@
-header h1 {
+header {
+  border: 1px solid black;
+  outline-style: solid;
   background-color: blue;
+}
+
+header h1 {
   color: white;
+}
+
+body {
+  text-align: center;
 }
