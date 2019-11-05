@@ -11,3 +11,16 @@ header h1 {
 body {
   text-align: center;
 }
+
+main {
+  display: flex;
+  flex-direction: row;
+}
+
+section:first-child {
+  max-width: 23vw;
+}
+
+section:last-child {
+  max-width: 12vw;
+}
