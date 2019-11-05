@@ -18,7 +18,9 @@ main {
 }
 
 section:first-child {
-  max-width: 23vw;
+  max-width: 33vw;
+  margin-top: 43px;
+  padding-right: 63px;
 }
 
 section p:first-child {
@@ -26,9 +28,15 @@ section p:first-child {
 }
 
 section:last-child {
-  max-width: 12vw;
+  max-width: 20vw;
+  margin-top: 94px;
 }
 
 section p:last-child {
   text-align: left;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
 }
