@@ -6,6 +6,9 @@ header {
 
 header h1 {
   color: white;
+  font-size: 40px;
+  margin: 2%;
+  margin-bottom: 4px;
 }
 
 body {
